@@ -1,0 +1,26 @@
+# --- Streamlit and UI tools ---
+streamlit
+streamlit-chat
+streamlit-timeline
+pyvis
+torch>=1.12
+transformers>=4.30.0
+sentencepiece
+nltk  
+# Added
+ollama
+
+# --- Web scraping & parsing ---
+beautifulsoup4
+requests
+wikipedia-api  # Added
+dateparser
+
+# --- Graph & Visualization ---
+networkx  # Added
+
+# --- Gradio version for compatibility ---
+gradio==5.32.0
+
+# --- IndicTransToolkit (direct GitHub) ---
+git+https://github.com/VarunGumma/IndicTransToolkit.git
